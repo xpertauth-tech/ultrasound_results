@@ -5,7 +5,7 @@
 // CONFIGURACIÓN
 // ============================================================
 const SUPABASE_URL      = "https://supabase.xpertauth.com";
-const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzAwMDAwMDAwLCJleHAiOjE5MDAwMDAwMDB9.G-aGMuV36mHVUW5Ifub2wKZhFPf5H-Zntwu2_MOMQBg";
+const SUPABASE_ANON_KEY = "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJyb2xlIjoiYW5vbiIsImlzcyI6InN1cGFiYXNlIiwiaWF0IjoxNzkzNjk2NTM3LCJleHAiOjIxMDkwNTY1Mzd9.HdhW4PrS3_ZHjzImIeZu1u57DBtBP0_c8N3kNriAA8g";
 const sb = supabase.createClient(SUPABASE_URL, SUPABASE_ANON_KEY);
 
 // ============================================================
